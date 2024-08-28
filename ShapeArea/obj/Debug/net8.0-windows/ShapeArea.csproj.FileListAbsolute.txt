@@ -1,0 +1,14 @@
+F:\C#\ShapeArea\bin\Debug\net8.0-windows\ShapeArea.exe
+F:\C#\ShapeArea\bin\Debug\net8.0-windows\ShapeArea.deps.json
+F:\C#\ShapeArea\bin\Debug\net8.0-windows\ShapeArea.runtimeconfig.json
+F:\C#\ShapeArea\bin\Debug\net8.0-windows\ShapeArea.dll
+F:\C#\ShapeArea\bin\Debug\net8.0-windows\ShapeArea.pdb
+F:\C#\ShapeArea\obj\Debug\net8.0-windows\ShapeArea.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\ShapeArea\obj\Debug\net8.0-windows\ShapeArea.AssemblyInfoInputs.cache
+F:\C#\ShapeArea\obj\Debug\net8.0-windows\ShapeArea.AssemblyInfo.cs
+F:\C#\ShapeArea\obj\Debug\net8.0-windows\ShapeArea.csproj.CoreCompileInputs.cache
+F:\C#\ShapeArea\obj\Debug\net8.0-windows\ShapeArea.dll
+F:\C#\ShapeArea\obj\Debug\net8.0-windows\refint\ShapeArea.dll
+F:\C#\ShapeArea\obj\Debug\net8.0-windows\ShapeArea.pdb
+F:\C#\ShapeArea\obj\Debug\net8.0-windows\ShapeArea.genruntimeconfig.cache
+F:\C#\ShapeArea\obj\Debug\net8.0-windows\ref\ShapeArea.dll
